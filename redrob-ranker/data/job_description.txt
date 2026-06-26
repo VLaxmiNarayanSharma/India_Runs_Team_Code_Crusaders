@@ -1,0 +1,40 @@
+Senior Machine Learning Engineer — Search, Retrieval & Ranking
+Redrob AI · Bangalore, India (Hybrid)
+
+About the role
+Redrob is building India's AI-native hiring platform. We need a senior ML engineer to own the intelligence layer that matches candidates to roles — going far beyond keyword filters. You will design, ship, and iterate on hybrid retrieval, embedding pipelines, learning-to-rank models, and evaluation harnesses used in production at scale.
+
+What you will do
+- Build and productionize hybrid retrieval systems combining lexical search (BM25) with dense vector recall across millions of profiles.
+- Select, fine-tune, and evaluate embedding models for candidate–JD matching.
+- Design learning-to-rank and recommendation features using behavioral signals (clicks, saves, recruiter actions).
+- Own offline/online evaluation: NDCG, MRR, recall@K calibrated to live A/B metrics.
+- Ship end-to-end ML systems with strict latency budgets (sub-200ms p95) and high QPS.
+- Partner with product, data engineering, and recruiting ops in a fast-moving startup environment.
+
+Must-have qualifications
+- 5–10 years of hands-on experience building production ML systems (not research-only).
+- Strong track record in search, information retrieval, recommendation systems, or ranking at scale.
+- Deep expertise in embeddings, vector databases, and hybrid retrieval architectures.
+- Experience with learning-to-rank (XGBoost, LightGBM, or neural rankers) in production.
+- Proficiency in Python and modern ML tooling (PyTorch, scikit-learn, MLflow or similar).
+- Rigorous approach to evaluation — you know when offline metrics lie.
+- Demonstrated ownership: you have shipped meaningful systems, not just prototypes.
+
+Nice to have
+- LLM/RAG experience for semantic matching and query understanding.
+- Experience in hiring tech, marketplaces, or two-sided platforms.
+- Familiarity with Milvus, FAISS, Elasticsearch, or similar retrieval infrastructure.
+- Open-source contributions or strong GitHub activity in ML/IR.
+
+Soft skills we value
+- Bias toward shipping: working v1 in 6 weeks beats perfect v2 in 6 months.
+- Cross-functional communication with PMs and engineers.
+- Pragmatic tradeoffs between classical IR and modern LLM approaches.
+- End-to-end ownership from problem framing through deployment and monitoring.
+
+Logistics
+- Location: Bangalore, Karnataka, India (candidates willing to relocate or work hybrid preferred).
+- Work mode: Hybrid (3 days in office).
+- Notice period: ideally ≤ 60 days.
+- Expected experience band: 5–10 years.

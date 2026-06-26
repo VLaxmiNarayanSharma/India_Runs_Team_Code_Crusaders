@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0071974,1,1.0000,Senior AI Engineer with 7.8 yrs; hybrid retrieval + LTR in production; 11 verified core skills; response rate 0.76.
+CAND_0046525,2,0.9920,Senior Machine Learning Engineer with 6.1 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 8 verified core skills; response rate 0.88.
+CAND_0081846,3,0.9840,Lead AI Engineer with 6.7 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 10 verified core skills; response rate 0.73.
+CAND_0011687,4,0.9760,Senior NLP Engineer with 7.8 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 6 verified core skills; response rate 0.89.
+CAND_0084819,5,0.9680,Search Engineer with 4.5 yrs; hybrid retrieval + LTR in production; 8 verified core skills; response rate 0.74.
+CAND_0065195,6,0.9600,Search Engineer with 5.1 yrs; LTR in production; 5 verified core skills; response rate 0.80.
+CAND_0076831,7,0.9520,Search Engineer with 4.0 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 7 verified core skills; response rate 0.50.
+CAND_0046064,8,0.9440,Senior NLP Engineer with 8.9 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 5 verified core skills; response rate 0.78.
+CAND_0042506,9,0.9360,Search Engineer with 4.2 yrs; strong eval (NDCG); 8 verified core skills; response rate 0.48.
+CAND_0005260,10,0.9280,Senior NLP Engineer with 5.2 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 9 verified core skills; response rate 0.86.
+CAND_0086022,11,0.9200,Senior Applied Scientist with 5.3 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 13 verified core skills; response rate 0.55.
+CAND_0008425,12,0.9120,Senior NLP Engineer with 7.8 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 9 verified core skills; response rate 0.66.
+CAND_0039754,13,0.9040,Senior Applied Scientist with 16.2 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 10 verified core skills; response rate 0.81.
+CAND_0041568,14,0.8960,Search Engineer with 5.2 yrs; hybrid retrieval + LTR in production; 8 verified core skills; response rate 0.52.
+CAND_0054318,15,0.8880,AI Research Engineer with 3.5 yrs; embeddings + vector search in production; 6 verified core skills; response rate 0.87.
+CAND_0090300,16,0.8800,AI Research Engineer with 5.3 yrs; embeddings + vector search in production; 4 verified core skills; response rate 0.94.
+CAND_0053591,17,0.8720,AI Engineer with 5.3 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 5 verified core skills; response rate 0.81.
+CAND_0002025,18,0.8640,Senior AI Engineer with 5.9 yrs; hybrid retrieval + LTR in production; 10 AI core skills; response rate 0.80.
+CAND_0055905,19,0.8560,Senior Machine Learning Engineer with 8.1 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 7 verified core skills; response rate 0.87.
+CAND_0010541,20,0.8480,AI Research Engineer with 6.2 yrs; hybrid retrieval + LTR in production; 5 verified core skills; response rate 0.59.
+CAND_0044222,21,0.8400,AI Engineer with 7.7 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 8 verified core skills; response rate 0.60.
+CAND_0064904,22,0.8320,AI Engineer with 4.9 yrs; strong eval (NDCG); 7 verified core skills; response rate 0.78.
+CAND_0040946,23,0.8240,AI Research Engineer with 6.0 yrs; LTR in production; 4 verified core skills; response rate 0.28.
+CAND_0089470,24,0.8160,AI Research Engineer with 6.5 yrs; hybrid retrieval + LTR in production; 7 verified core skills; response rate 0.77.
+CAND_0059795,25,0.8080,Senior Software Engineer (ML) with 5.6 yrs; production ML systems; 3 verified core skills; response rate 0.75.
+CAND_0010257,26,0.8000,Senior Data Scientist with 6.5 yrs; strong eval (NDCG); 6 verified core skills; response rate 0.72.
+CAND_0022023,27,0.7920,AI Research Engineer with 4.6 yrs; search/ranking systems in production; 1 verified core skills; response rate 0.47.
+CAND_0043829,28,0.7840,AI Research Engineer with 4.8 yrs; hybrid retrieval + LTR in production; 4 verified core skills; response rate 0.78.
+CAND_0011327,29,0.7760,AI Research Engineer with 6.3 yrs; search/ranking systems in production; 2 verified core skills; response rate 0.79.
+CAND_0080766,30,0.7680,Staff Machine Learning Engineer with 8.8 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 6 verified core skills; response rate 0.66.
+CAND_0061257,31,0.7600,Staff Machine Learning Engineer with 8.0 yrs; search/ranking systems in production; 4 verified core skills; response rate 0.87.
+CAND_0044890,32,0.7520,AI Research Engineer with 5.0 yrs; embeddings + vector search in production; 4 verified core skills; response rate 0.79.
+CAND_0055992,33,0.7440,AI Engineer with 16.9 yrs; hybrid retrieval + LTR in production; 7 verified core skills; response rate 0.72.
+CAND_0040887,34,0.7360,Machine Learning Engineer with 4.7 yrs; hybrid retrieval + LTR in production; 5 verified core skills; response rate 0.84.
+CAND_0037000,35,0.7280,Search Engineer with 2.7 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 8 verified core skills; response rate 0.61.
+CAND_0041348,36,0.7200,AI Research Engineer with 3.0 yrs; LTR in production; 3 verified core skills; response rate 0.31.
+CAND_0007411,37,0.7120,Senior Machine Learning Engineer with 8.0 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 9 verified core skills; response rate 0.12.
+CAND_0033861,38,0.7040,Senior NLP Engineer with 8.0 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 10 verified core skills; response rate 0.16.
+CAND_0020877,39,0.6960,Applied ML Engineer with 5.1 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 6 verified core skills; response rate 0.66.
+CAND_0041611,40,0.6880,Staff Machine Learning Engineer with 6.4 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 9 verified core skills; response rate 0.07.
+CAND_0006567,41,0.6800,Senior AI Engineer with 7.9 yrs; hybrid retrieval + LTR in production; 6 verified core skills; response rate 0.79.
+CAND_0020991,42,0.6720,Junior ML Engineer with 4.9 yrs; search/ranking systems in production; 4 verified core skills; response rate 0.88.
+CAND_0058575,43,0.6640,AI Engineer with 5.8 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 6 AI core skills; response rate 0.69.
+CAND_0007460,44,0.6560,AI Engineer with 4.7 yrs; LTR in production; 7 verified core skills; response rate 0.48.
+CAND_0074325,45,0.6480,AI Research Engineer with 3.9 yrs; LTR in production; 3 verified core skills; response rate 0.47.
+CAND_0063585,46,0.6400,AI Research Engineer with 3.1 yrs; LTR in production; 2 verified core skills; response rate 0.34.
+CAND_0052712,47,0.6320,AI Research Engineer with 3.1 yrs; embeddings + vector search in production; 3 verified core skills; response rate 0.78.
+CAND_0016170,48,0.6240,AI Research Engineer with 6.8 yrs; embeddings + vector search in production; 2 AI core skills; response rate 0.52.
+CAND_0034849,49,0.6160,AI Research Engineer with 3.1 yrs; LTR in production; 2 verified core skills; response rate 0.29.
+CAND_0078042,50,0.6080,Applied ML Engineer with 4.7 yrs; LTR in production; strong eval (NDCG); 5 verified core skills; response rate 0.91.
+CAND_0033650,51,0.6000,Junior ML Engineer with 4.2 yrs; RAG/LLM production experience; 2 verified core skills; response rate 0.52.
+CAND_0013665,52,0.5920,Senior Software Engineer (ML) with 5.2 yrs; LTR in production; 5 verified core skills; response rate 0.73.
+CAND_0035879,53,0.5840,AI Research Engineer with 4.5 yrs; hybrid retrieval + LTR in production; 3 verified core skills; response rate 0.82.
+CAND_0010000,54,0.5760,AI Research Engineer with 3.2 yrs; LTR in production; 5 verified core skills; response rate 0.31.
+CAND_0006833,55,0.5680,AI Research Engineer with 5.7 yrs; search/ranking systems in production; 3 verified core skills; response rate 0.26.
+CAND_0008239,56,0.5600,AI Engineer with 4.0 yrs; LTR in production; 6 AI core skills; response rate 0.73.
+CAND_0044883,57,0.5520,AI Engineer with 6.3 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 7 AI core skills; response rate 0.84.
+CAND_0023076,58,0.5440,AI Research Engineer with 3.7 yrs; hybrid retrieval + LTR in production; 4 AI core skills; response rate 0.61.
+CAND_0077881,59,0.5360,Junior ML Engineer with 4.6 yrs; hybrid retrieval + LTR in production; 7 verified core skills; response rate 0.30.
+CAND_0072803,60,0.5280,AI Research Engineer with 3.3 yrs; LTR in production; 2 AI core skills; response rate 0.56.
+CAND_0043958,61,0.5200,AI Research Engineer with 6.7 yrs; LTR in production; 4 verified core skills; response rate 0.67.
+CAND_0042441,62,0.5120,AI Research Engineer with 4.1 yrs; embeddings + vector search in production; 3 verified core skills; response rate 0.72.
+CAND_0040677,63,0.5040,AI Research Engineer with 4.2 yrs; search/ranking systems in production; 5 AI core skills; response rate 0.37.
+CAND_0098952,64,0.4960,AI Research Engineer with 5.5 yrs; search/ranking systems in production; 3 verified core skills; response rate 0.66.
+CAND_0049771,65,0.4880,AI Research Engineer with 5.0 yrs; search/ranking systems in production; 3 verified core skills; response rate 0.81.
+CAND_0009200,66,0.4800,AI Specialist with 5.7 yrs; hybrid retrieval + LTR in production; 3 verified core skills; response rate 0.32.
+CAND_0014743,67,0.4720,AI Research Engineer with 3.6 yrs; hybrid retrieval + LTR in production; 4 verified core skills; response rate 0.66.
+CAND_0020494,68,0.4640,AI Research Engineer with 5.9 yrs; embeddings + vector search in production; 4 verified core skills; response rate 0.26.
+CAND_0028908,69,0.4560,Junior ML Engineer with 3.1 yrs; LTR in production; 2 verified core skills; response rate 0.45.
+CAND_0072091,70,0.4480,ML Engineer with 4.6 yrs; hybrid retrieval + LTR in production; 1 verified core skills; response rate 0.60.
+CAND_0038552,71,0.4400,Senior Software Engineer with 6.1 yrs; strong eval (NDCG); 3 verified core skills; response rate 0.35.
+CAND_0068351,72,0.4320,Lead AI Engineer with 6.4 yrs; search/ranking systems in production; 7 AI core skills; response rate 0.86.
+CAND_0076412,73,0.4240,AI Research Engineer with 5.8 yrs; search/ranking systems in production; 3 verified core skills; response rate 0.54.
+CAND_0076904,74,0.4160,Senior Data Scientist with 4.2 yrs; hybrid retrieval + LTR in production; 9 verified core skills; response rate 0.54.
+CAND_0052360,75,0.4080,ML Engineer with 3.0 yrs; embeddings + vector search in production; 5 verified core skills; response rate 0.36.
+CAND_0062247,76,0.4000,AI Engineer with 7.3 yrs; hybrid retrieval + LTR in production; 9 AI core skills; response rate 0.78.
+CAND_0060303,77,0.3920,AI Research Engineer with 4.9 yrs; embeddings + vector search in production; 4 verified core skills; response rate 0.75.
+CAND_0037527,78,0.3840,Senior Data Engineer with 2.3 yrs; LTR in production; 2 verified core skills; response rate 0.43.
+CAND_0051593,79,0.3760,AI Specialist with 3.7 yrs; embeddings + vector search in production; 5 verified core skills; response rate 0.43.
+CAND_0069773,80,0.3680,AI Research Engineer with 6.0 yrs; LTR in production; 6 verified core skills; response rate 0.28.
+CAND_0003609,81,0.3600,Senior Software Engineer (ML) with 6.1 yrs; hybrid retrieval + LTR in production; 3 verified core skills; response rate 0.50.
+CAND_0061683,82,0.3520,Senior Data Engineer with 4.2 yrs; strong eval (NDCG); 1 verified core skills; response rate 0.72.
+CAND_0056058,83,0.3440,Junior ML Engineer with 3.4 yrs; embeddings + vector search in production; 4 verified core skills; response rate 0.81.
+CAND_0076533,84,0.3360,Senior Data Engineer with 7.8 yrs; strong eval (NDCG); 1 verified core skills; response rate 0.18.
+CAND_0055536,85,0.3280,Senior Software Engineer with 5.6 yrs; strong eval (NDCG); 5 AI core skills; response rate 0.21.
+CAND_0087316,86,0.3200,AI Research Engineer with 4.1 yrs; search/ranking systems in production; 4 AI core skills; response rate 0.80.
+CAND_0088025,87,0.3120,Staff Machine Learning Engineer with 8.6 yrs; hybrid retrieval + LTR in production; 12 verified core skills; response rate 0.83; career narrative consistency discounted.
+CAND_0070333,88,0.3040,AI Research Engineer with 4.7 yrs; embeddings + vector search in production; 4 verified core skills; response rate 0.48.
+CAND_0013122,89,0.2960,AI Specialist with 4.3 yrs; RAG/LLM production experience; 3 verified core skills; response rate 0.56.
+CAND_0010593,90,0.2880,Senior Software Engineer with 6.6 yrs; strong eval (NDCG); 3 verified core skills; response rate 0.64.
+CAND_0077337,91,0.2800,Staff Machine Learning Engineer with 7.0 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 9 verified core skills; response rate 0.95; career narrative consistency discounted.
+CAND_0018499,92,0.2720,Senior Machine Learning Engineer with 7.2 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 11 verified core skills; response rate 0.61; career narrative consistency discounted.
+CAND_0046132,93,0.2640,AI Research Engineer with 4.3 yrs; search/ranking systems in production; 3 verified core skills; response rate 0.94.
+CAND_0083307,94,0.2560,Search Engineer with 7.8 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 9 AI core skills; response rate 0.70; career narrative consistency discounted.
+CAND_0002957,95,0.2480,Senior Data Engineer with 6.0 yrs; hybrid retrieval + LTR in production; 3 verified core skills; response rate 0.55.
+CAND_0037980,96,0.2400,Senior Applied Scientist with 9.0 yrs; hybrid retrieval + LTR in production; 8 verified core skills; response rate 0.63; career narrative consistency discounted.
+CAND_0005538,97,0.2320,Senior AI Engineer with 5.9 yrs; strong eval (NDCG); 7 verified core skills; response rate 0.81; career narrative consistency discounted.
+CAND_0060072,98,0.2240,Staff Machine Learning Engineer with 5.7 yrs; hybrid retrieval + LTR in production; 11 verified core skills; response rate 0.10; career narrative consistency discounted.
+CAND_0094759,99,0.2160,Lead AI Engineer with 8.6 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 7 verified core skills; response rate 0.11; career narrative consistency discounted.
+CAND_0099806,100,0.2080,AI Engineer with 4.6 yrs; hybrid retrieval + LTR in production; strong eval (NDCG); 9 verified core skills; response rate 0.76; career narrative consistency discounted.
